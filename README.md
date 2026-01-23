@@ -9,13 +9,6 @@
   </a>
 </p>
 
-<br>
-
-<p align="center">
-📍 Madrid, Spain &nbsp;&nbsp;|&nbsp;&nbsp;
-📧 <a href="mailto:carl.gomezro@gmail.com">carl.gomezro@gmail.com</a>
-</p>
-
 ---
 
 ## 🚀 About Me
