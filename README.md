@@ -46,86 +46,98 @@ const carlos = {
 
 ## 🛠 Tech Stack
 
-### Frontend
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48"/>
 </p>
+
+</details>
 
 ---
 
-### Backend & Databases
+<details open>
+<summary><b>🧠 Backend & Databases</b></summary>
+<br>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
 </p>
+
+</details>
 
 ---
 
-### Tools & Design
+<details>
+<summary><b>🧰 Tools & Design</b></summary>
+<br>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="46"/>
 </p>
+
+</details>
 
 ---
 
 ## 💼 What I Do
 
-### 🎯 Full Stack Development
-Building complete web applications from conception to deployment using modern technologies and best practices.
+| 🎯 Full Stack Development | 🎨 UX/UI Design |
+|--------------------------|----------------|
+| Building complete web applications from conception to deployment using modern technologies and best practices. | Creating intuitive interfaces based on user research, wireframing, prototyping, and design systems. |
 
----
-
-### 🎨 UX/UI Design
-Creating intuitive interfaces based on user research, wireframing, prototyping, and design systems.
-
----
-
-### 🧩 Design Systems
-Developing scalable design systems and reusable component libraries for consistent user experiences.
-
----
-
-### ⚡ Performance Optimization
-Improving web performance, accessibility, and SEO to deliver exceptional user experiences.
+| 🧩 Design Systems | ⚡ Performance Optimization |
+|------------------|----------------------------|
+| Developing scalable design systems and reusable component libraries for consistent user experiences. | Improving web performance, accessibility, and SEO to deliver exceptional user experiences. |
 
 ---
 
 ## 🌱 Currently Learning
+
+<details>
+<summary><b>What I'm focusing on right now</b></summary>
+<br>
+
 - TypeScript
 - Next.js
 - Testing with Jest & React Testing Library
 - Advanced Node.js Patterns
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<div align='left'>
-<ul>
+</details>
 
-<li>
-<a href="https://linkedin.com/in/carlos-gomez-rodriguez/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+---
 
-<br>
+## 📌 What I’m Looking For
 
-<li>
-<a href="mailto:carl.gomezro@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
+> 💼 **Junior / Mid Full Stack Developer roles**  
+> 🧠 Product-driven teams  
+> 🎨 Strong UX & design culture  
+> 🌍 Remote or Madrid-based opportunities
 
+---
 
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/carlos-gomez-rodriguez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-405DE6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:carl.gomezro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
