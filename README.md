@@ -44,12 +44,18 @@ const carlos = {
 <br>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" style="border-radius:12px; background:#fff; padding:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" style="border-radius:12px; background:#fff; padding:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" style="border-radius:12px; background:#fff; padding:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" style="border-radius:12px; background:#fff; padding:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" style="border-radius:12px; background:#fff; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46"
+    style="background:#f5f5f5;border-radius:14px;padding:8px;margin:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="46"
+    style="background:#f5f5f5;border-radius:14px;padding:8px;margin:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="46"
+    style="background:#f5f5f5;border-radius:14px;padding:8px;margin:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="46"
+    style="background:#f5f5f5;border-radius:14px;padding:8px;margin:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="46"
+    style="background:#f5f5f5;border-radius:14px;padding:8px;margin:4px;" />
 </p>
+
 
 </details>
 
@@ -60,12 +66,18 @@ const carlos = {
 <br>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" style="border-radius:12px; background:#fff; padding:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" style="border-radius:12px; background:#fff; padding:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" style="border-radius:12px; background:#fff; padding:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" style="border-radius:12px; background:#fff; padding:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" style="border-radius:12px; background:#fff; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46"
+    style="background:#f5f5f5;border-radius:14px;padding:8px;margin:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="46"
+    style="background:#f5f5f5;border-radius:14px;padding:8px;margin:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="46"
+    style="background:#f5f5f5;border-radius:14px;padding:8px;margin:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46"
+    style="background:#f5f5f5;border-radius:14px;padding:8px;margin:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="46"
+    style="background:#f5f5f5;border-radius:14px;padding:8px;margin:4px;" />
 </p>
+
 
 </details>
 
