@@ -47,33 +47,57 @@ const carlos = {
 ## 🛠 Tech Stack
 
 ### Frontend
-- **Languages & Frameworks:** JavaScript (ES6+), HTML5, CSS3, React, SASS
-- **Tools & Libraries:** Redux, Axios, React Router, Styled Components
-
-### Backend
-- **Languages & Frameworks:** Node.js, Express.js
-- **Databases:** MongoDB, SQL (MySQL/PostgreSQL)
-- **APIs:** RESTful APIs, GraphQL (in progress)
-
-### Design & UX
-- Figma, Adobe Photoshop, Adobe Illustrator
-- Wireframing & Prototyping
-- User-Centered Design Principles
-
-### Dev Tools
-- Git & GitHub
-- VS Code
-- Postman
-- npm / yarn
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
-
+### Backend & Databases
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
 </p>
+
+---
+
+### Tools & Design
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" />
+</p>
+
+---
+
+## 💼 What I Do
+
+### 🎯 Full Stack Development
+Building complete web applications from conception to deployment using modern technologies and best practices.
+
+---
+
+### 🎨 UX/UI Design
+Creating intuitive interfaces based on user research, wireframing, prototyping, and design systems.
+
+---
+
+### 🧩 Design Systems
+Developing scalable design systems and reusable component libraries for consistent user experiences.
+
+---
+
+### ⚡ Performance Optimization
+Improving web performance, accessibility, and SEO to deliver exceptional user experiences.
 
 ---
 
@@ -83,6 +107,25 @@ const carlos = {
 - Testing with Jest & React Testing Library
 - Advanced Node.js Patterns
 
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<div align='left'>
+<ul>
 
+<li>
+<a href="https://linkedin.com/in/carlos-gomez-rodriguez/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:carl.gomezro@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
 
 
