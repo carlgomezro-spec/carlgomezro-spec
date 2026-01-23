@@ -39,7 +39,7 @@ const carlos = {
 
 ## 🛠 Tech Stack
 
-<details open>
+<details>
 <summary><b>🎨 Frontend</b></summary>
 <br>
 
@@ -55,7 +55,7 @@ const carlos = {
 
 ---
 
-<details open>
+<details>
 <summary><b>🧠 Backend & Databases</b></summary>
 <br>
 
@@ -108,7 +108,6 @@ const carlos = {
 - TypeScript
 - Next.js
 - Testing with Jest & React Testing Library
-- Advanced Node.js Patterns
 
 </details>
 
