@@ -16,14 +16,15 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Full Stack Developer
+- with a background in Design
+- Marketing
+- & UX
 
 <br><br>
+
+📍 Madrid, Spain  
+📧 carl.gomezro@gmail.com  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -32,42 +33,77 @@
 
 <p align="center">
 
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+## 🚀 About Me
 
-<br>   
-    
-- **Front-End Development**:
+I’m a developer with a strong foundation in **design, communication, and user experience**, currently focused on building complete digital products from the ground up. I combine creativity with technical logic to create solutions that are not only functional, but also intuitive and visually engaging. :contentReference[oaicite:0]{index=0}
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+After several years leading digital communication and design projects, I decided to specialize in **web development**, where I can bring both worlds together: **design thinking + clean, scalable code**. :contentReference[oaicite:1]{index=1}
 
-<br>
+## 🛠 Tech Stack
 
-- **Cloud Hosting**:
+**Frontend**  
+HTML · CSS · JavaScript · React :contentReference[oaicite:2]{index=2}  
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
+**Backend**  
+Node.js · Express :contentReference[oaicite:3]{index=3}  
 
-- **Softwares and Tools**:
+**Databases**  
+MongoDB · SQL :contentReference[oaicite:4]{index=4}  
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+**Tools & Design**  
+Git · GitHub · Figma · Photoshop · Illustrator :contentReference[oaicite:5]{index=5}  
 
-<br>
+---
 
-- **Extras**:
+## 💼 Professional Background
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+Before moving fully into development, I worked in digital design and marketing roles where I:
+
+- Led digital projects with a strong focus on **user experience**  
+- Coordinated **multidisciplinary teams** (design, content, communication)  
+- Managed and optimized **digital campaigns and content strategies**  
+- Improved workflows using **agile methodologies and automation tools** :contentReference[oaicite:6]{index=6}  
+
+This experience helps me build software with a **product mindset**, always thinking about users, business goals, and real-world impact.
+
+---
+
+## 🎓 Education
+
+- 🎓 Bachelor’s Degree in **Advertising & Public Relations**  
+- 🎨 Master’s Degree in **Graphic Design & Digital Environments**  
+- 💻 Full Stack Developer Bootcamp (HTML, CSS, JavaScript, React, Node, MongoDB) :contentReference[oaicite:7]{index=7}  
+
+---
+
+## 🧠 Soft Skills
+
+✨ Creative thinking  
+🤝 Teamwork  
+🗣 Effective communication  
+🧩 Problem solving  
+📅 Project management  
+⚡ Proactivity :contentReference[oaicite:8]{index=8}  
+
+---
+
+## 🏆 Highlight
+
+🏅 Winner – **Best Marketing Campaign (FEBE / URJC Contest)** :contentReference[oaicite:9]{index=9}  
+
+---
+
+## 📌 What I'm Looking For
+
+I’m looking for opportunities as a **Junior / Entry-Level Full Stack or Frontend Developer** where I can:
+
+- Contribute to real products  
+- Keep growing as an engineer  
+- Add value through my hybrid profile: **design + development**
+
+---
+
+⭐ *Feel free to explore my repositories to see how I build and think.*
 
 
 </p>
