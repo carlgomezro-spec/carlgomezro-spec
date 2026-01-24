@@ -19,7 +19,6 @@ After several years leading digital communication and design projects, I decided
 
 ```js
 const carlos = {
-  pronouns: "he/him",
   location: "Madrid, Spain 🇪🇸",
   role: ["Full Stack Developer", "UX/UI-minded"],
   code: ["JavaScript", "HTML", "CSS"],
