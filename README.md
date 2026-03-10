@@ -32,7 +32,6 @@ const carlos = {
 };
 
 ```
----
 
 ---
 
@@ -85,7 +84,6 @@ const carlos = {
 </p>
 
 </details>
-
 
 ---
 
